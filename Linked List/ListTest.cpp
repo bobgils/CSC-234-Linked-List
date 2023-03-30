@@ -4,6 +4,7 @@
 
 using namespace std;
 
+/* A program to test the class List */
 int main(int argc, char* argv[]) {
 	List* lists[2];
 	int numItems = 10;
